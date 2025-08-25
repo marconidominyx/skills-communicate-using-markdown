@@ -5,3 +5,6 @@ I’m learning how to use Markdown!
 - Coding
 - Reading
 - Coffee
+
+## Here’s a fun image:
+![Octocat Mascot](https://octodex.github.com/images/yaktocat.png)
