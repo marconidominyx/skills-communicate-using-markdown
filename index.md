@@ -16,3 +16,8 @@ I’m learning how to use Markdown!
 // Simple JavaScript code
 let message = "Hello, GitHub!";
 console.log(message);
+
+## To-Do List
+- [ ] Finish this Markdown course
+- [ ] Build my GitHub portfolio
+- [ ] Share my projects with the world
